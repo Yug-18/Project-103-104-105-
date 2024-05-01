@@ -1,0 +1,21 @@
+body {
+    background-color: pink; 
+    color: white;
+ }
+ 
+ .heading {
+     width: 80%;
+     font-size: 22px;
+ }
+ 
+ .Name_of_Members
+ {
+     color: yellow;
+ }
+ 
+ #member_name,#FM_accuracy
+ {
+     color: yellow;
+ }
+ 
+ 
